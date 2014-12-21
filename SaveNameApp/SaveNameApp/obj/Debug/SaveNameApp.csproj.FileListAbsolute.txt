@@ -1,0 +1,9 @@
+G:\SaveNameApp\SaveNameApp\bin\Debug\SaveNameApp.exe.config
+G:\SaveNameApp\SaveNameApp\obj\Debug\SaveNameApp.csprojResolveAssemblyReference.cache
+G:\SaveNameApp\SaveNameApp\obj\Debug\SaveNameApp.Form1.resources
+G:\SaveNameApp\SaveNameApp\obj\Debug\SaveNameApp.Properties.Resources.resources
+G:\SaveNameApp\SaveNameApp\obj\Debug\SaveNameApp.csproj.GenerateResource.Cache
+G:\SaveNameApp\SaveNameApp\bin\Debug\SaveNameApp.exe
+G:\SaveNameApp\SaveNameApp\bin\Debug\SaveNameApp.pdb
+G:\SaveNameApp\SaveNameApp\obj\Debug\SaveNameApp.exe
+G:\SaveNameApp\SaveNameApp\obj\Debug\SaveNameApp.pdb

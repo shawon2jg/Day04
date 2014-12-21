@@ -1,0 +1,9 @@
+G:\NumberUIApp\NumberUIApp\bin\Debug\NumberUIApp.exe.config
+G:\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.csprojResolveAssemblyReference.cache
+G:\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.Form1.resources
+G:\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.Properties.Resources.resources
+G:\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.csproj.GenerateResource.Cache
+G:\NumberUIApp\NumberUIApp\bin\Debug\NumberUIApp.exe
+G:\NumberUIApp\NumberUIApp\bin\Debug\NumberUIApp.pdb
+G:\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.exe
+G:\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.pdb

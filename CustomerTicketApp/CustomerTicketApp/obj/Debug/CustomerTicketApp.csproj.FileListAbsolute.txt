@@ -1,0 +1,12 @@
+G:\CustomerTicketApp\CustomerTicketApp\bin\Debug\CustomerTicketApp.exe.config
+G:\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.csprojResolveAssemblyReference.cache
+G:\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.Form1.resources
+G:\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.Properties.Resources.resources
+G:\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.csproj.GenerateResource.Cache
+G:\CustomerTicketApp\CustomerTicketApp\bin\Debug\CustomerTicketApp.exe
+G:\CustomerTicketApp\CustomerTicketApp\bin\Debug\CustomerTicketApp.pdb
+G:\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.exe
+G:\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.pdb
+E:\FTFL Class Lecture\BITM course\13-Dec-2014\CustomerTicketApp\CustomerTicketApp\bin\Debug\CustomerTicketApp.exe.config
+E:\FTFL Class Lecture\BITM course\13-Dec-2014\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.exe
+E:\FTFL Class Lecture\BITM course\13-Dec-2014\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.pdb
